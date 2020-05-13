@@ -1,6 +1,7 @@
 def reverse_each_word(phrase)
   new_phrase = []
-  array.split
+  array = phrase.split
+  
   
  end
 end
