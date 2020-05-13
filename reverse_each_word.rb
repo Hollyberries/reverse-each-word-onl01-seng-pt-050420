@@ -1,9 +1,6 @@
-def reverse_each_word(phrase)
-  new_phrase = []
-  array = phrase.split
-  array.each do |written_word|
-  new_phrase.
-  
-  
+def reverse_each_word(string)
+  string.split
+  string.each do |written_word|
+  written_word.reverse
  end
 end
